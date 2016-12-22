@@ -1,2 +1,4 @@
 # Hello-Word
-testing repo
+Hi Guys
+This is my first GitHup Repository!!! 
+BRAVO...
